@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 5446,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/assign-multiple-aad-users-to-multiple-roles-in-multiple-subscriptions/master/AssignMultipleRoleAssignments.ps1",
+    "DownloadCount": 1574,
+    "Id": "Assign-Multiple-Azure-7a2ed718",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 239,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-3-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Interactive Powershell script to add multiple users & groups to multiple roles across multiple subscriptions. Search Azure AD and select multiple users & groups, select multiple roles to apply and select multiple subscriptions.",
+    "Title": "Assign multiple AAD users to multiple roles in multiple subscriptions",
+    "UpdatedDate": "2017-10-15T00:00:00",
+    "Url": "https://github.com/azureautomation/assign-multiple-aad-users-to-multiple-roles-in-multiple-subscriptions",
+    "UserTags": "Microsoft Azure, RBAC, Azure Resource Manager"
+}
